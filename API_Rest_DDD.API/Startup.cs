@@ -69,6 +69,8 @@ namespace API_Rest_DDD.API
             {
                 endpoints.MapRazorPages();
             });
+
+            app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
         }
     }
 }
