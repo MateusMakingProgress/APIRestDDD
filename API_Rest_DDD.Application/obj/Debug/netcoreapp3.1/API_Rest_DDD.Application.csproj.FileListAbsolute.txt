@@ -1,0 +1,15 @@
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\bin\Debug\netcoreapp3.1\API_Rest_DDD.Application.deps.json
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\bin\Debug\netcoreapp3.1\API_Rest_DDD.Application.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\bin\Debug\netcoreapp3.1\API_Rest_DDD.Application.pdb
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.csproj.AssemblyReference.cache
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.pdb
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Core.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Core.pdb
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.pdb
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Application\obj\Debug\netcoreapp3.1\API_Rest_DDD.Application.csproj.CopyComplete

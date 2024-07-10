@@ -1,0 +1,15 @@
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.deps.json
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.pdb
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Core.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Core.pdb
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\bin\Debug\netcoreapp3.1\API_Rest_DDD.Domain.pdb
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.csproj.AssemblyReference.cache
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.csproj.CopyComplete
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.dll
+E:\projetosPraticaProgramacao\API_Rest_DDD\API_Rest_DDD.Domain.Services\obj\Debug\netcoreapp3.1\API_Rest_DDD.Domain.Services.pdb
